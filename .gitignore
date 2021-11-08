@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# vscode files
+.vscode
+
+# logs
+lightning_logs
+tb_logs
+
 # C extensions
 *.so
 
