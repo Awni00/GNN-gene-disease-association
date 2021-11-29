@@ -9,6 +9,7 @@ __pycache__/
 # logs
 lightning_logs
 tb_logs
+wandb
 
 # C extensions
 *.so
